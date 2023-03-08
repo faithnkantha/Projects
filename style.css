@@ -1,0 +1,64 @@
+.card{
+   position: relative;
+}
+ .icon{
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+  font-size: 18px;
+}
+.img { 
+  width: 100%;
+  height: auto;
+  opacity: 0.3;
+}
+.name{
+  position: absolute;
+  top:0px;
+  left: 16px;
+  font-size: 30px;
+  color: grey;
+}
+
+
+.fa {
+  margin: 0px;
+  padding: 10px;
+  font-size: 30px;
+  width: 10px;
+  text-align: center;
+  text-decoration: none;
+  text-decoration: ;
+
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+  text-decoration: none;
+
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background:colorless;
+  color: black;
+  text-decoration: none;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: colorless;
+  color: black;
+}
+/*instagram*/
+.fa-instagram{
+  background: colorless;
+  color: black;
+}
+.fa-youtube{
+  background: colorless;
+  color: black;
+}
